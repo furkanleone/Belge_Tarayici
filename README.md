@@ -2,17 +2,6 @@
 
 Telefonla çekilmiş eğik, gölgeli veya dengesiz aydınlatılmış belge fotoğraflarını **düzgün taranmış, yüksek kaliteli belgelere** dönüştüren tamamen yerel (local) çalışan bir görüntü işleme aracıdır. Verileriniz hiçbir dış sunucuya gönderilmez, tüm işlemler cihazınızda gerçekleşir.
 
----
-
-## 📸 Önizleme (Önce / Sonra)
-
-Aşağıdaki örnekte, ahşap zemin üzerindeki perspektifi bozuk ve gölgeli sahte bir belgenin sistem tarafından nasıl düzeltildiği gösterilmektedir:
-
-| Orijinal Fotoğraf (Perspektif Bozuk & Gölgeli) | Taranmış ve İyileştirilmiş Belge |
-|:---:|:---:|
-| ![Önce](examples/ornek_foto.jpg) | ![Sonra](examples/ornek_foto_taranmis.png) |
-
----
 
 ## ✨ Özellikler
 
