@@ -1,10 +1,5 @@
 # 📄 Belge Tarayıcı (Document Scanner)
 
-[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-4.8%2B-green.svg)](https://opencv.org/)
-[![Gradio](https://img.shields.io/badge/Gradio-4.0%2B-orange.svg)](https://gradio.app/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 Telefonla çekilmiş eğik, gölgeli veya dengesiz aydınlatılmış belge fotoğraflarını **düzgün taranmış, yüksek kaliteli belgelere** dönüştüren tamamen yerel (local) çalışan bir görüntü işleme aracıdır. Verileriniz hiçbir dış sunucuya gönderilmez, tüm işlemler cihazınızda gerçekleşir.
 
 ---
